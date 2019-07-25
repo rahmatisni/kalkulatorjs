@@ -86,7 +86,7 @@ class Kalkulator{
 }
 
 
-const numberButtons = document.querySelectorAll('[data-angka]')
+const angkaButtons = document.querySelectorAll('[data-angka]')
 const operasiButtons = document.querySelectorAll('[data-operasi]')
 const samadenganButton = document.querySelector('[data-samadengan]')
 const hapusButton = document.querySelector('[data-hapus]')
